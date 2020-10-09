@@ -31,26 +31,26 @@ Nos exercícios em que não será possível alterar a estrutura do HTML, você a
    
     A) Sem alterar nada diretamente no HTML e CSS, apenas utilizando jQuery, modifique as colunas da imagem abaixo para que iniciem com opacidade 0.5 e fiquem com opacidade 1 ao passar o mouse em cima.
 
-<img src="img/Imagem1.jpg" alt="drawing" width="100%"/><br><br>
+<img src="img/Imagem1.jpg" alt="drawing" width="500px"/><br><br>
     
     B) Utilizando apenas jQuery, crie uma lógica para que ao carregar a tela só a navbar apareça e que o resto da página apareça quando o valor “mostrar” for digitado no campo de busca (sem necessariamente clicar no botão search). Não esqueça de validar se o valor “mostrar” for alterado para outro. O resto da página SÓ deve aparecer quando o valor “mostrar” estiver escrito no input search.
 
-<img src="img/Imagem2.jpg" alt="drawing" width="400px"/>
+<img src="img/Imagem2.jpg" alt="drawing" width="300px"/>
 <hr>
 
 **2º Exercicío**
 
     Utilizando o método attr(), conforme exemplo abaixo, deixa apenas o campo First Name habilitado, todos os outros devem ficar disabled até que o valor digitado em First Name seja diferente de vazio.
-<img src="img/Imagem3.jpg" alt="drawing" width="400px"/><br>
+<img src="img/Imagem3.jpg" alt="drawing" width="300px"/><br>
 
     Como deve ficar: 
-<img src="img/Imagem4.jpg" alt="drawing" width="100%"/><br>
+<img src="img/Imagem4.jpg" alt="drawing" width="500px"/><br>
 <hr>
 
 **3º Exercicío**	
    
     Modifique o que for necessário de HTML e crie um evento em jQuery para que o texto abaixo de heading só apareça ao clicar em “view details”. Utilize sliding.
-<img src="img/Imagem5.jpg" alt="drawing" width="100%"/><br>
+<img src="img/Imagem5.jpg" alt="drawing" width="500px"/><br>
 <hr> 
 
 **4º Exercicío**
@@ -61,7 +61,7 @@ Nos exercícios em que não será possível alterar a estrutura do HTML, você a
 **5º Exercicío**
 
     Desenvolva uma lógica para que, ao clicar em um dos botões, as outras opções desapareçam esmaecendo (velocidade 5000 milissegundos) e a respectiva coluna fique com tamanho 8.
-<img src="img/Imagem6.jpg" alt="drawing" width="100%"/><br>
+<img src="img/Imagem6.jpg" alt="drawing" width="500px"/><br>
  <hr>
  
 **6º Exercicío**
