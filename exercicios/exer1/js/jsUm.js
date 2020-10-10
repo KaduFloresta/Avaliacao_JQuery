@@ -5,7 +5,7 @@ $(function() {
 
     // EXERCÍCIO #1 - B
     // Esconde o corpo da página (tag main)
-    //$("main").hide();
+    $("main").hide();
 
     // Função de Mudança (change) no input dentro da tag form
     $("form > input").change(function() {
