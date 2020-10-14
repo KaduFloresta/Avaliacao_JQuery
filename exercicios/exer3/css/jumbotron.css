@@ -5,6 +5,7 @@ body {
 }
 
 /* Descrição fica oculta até clicar no botão */
+
 .popUp {
   display: none;
 }
