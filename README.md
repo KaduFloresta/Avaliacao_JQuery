@@ -73,7 +73,7 @@ Nos exercícios em que não será possível alterar a estrutura do HTML, você a
 **6º Exercicío**
 
     Desenvolva uma lógica para deslocar as headlines 50px para a direita ou esquerda (se for uma da direita, deslocar para a esquerda e vice-versa) quando o mouse entra no elemento (toda a div ) e volte à posição inicial quando o mouse sai.
-<hr>
-
 
 **DIVIRTA-SE!!!**
+
+---
